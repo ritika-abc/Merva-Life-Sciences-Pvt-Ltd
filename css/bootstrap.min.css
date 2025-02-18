@@ -8362,8 +8362,11 @@ fieldset:disabled .btn {
     background-color: #ffc107 !important
 }
 
+.jus{
+    text-align: justify !important  ;
+}
 .bg-danger {
-    background-color: rgb(226 73 56) !important
+    background-color: rgb(213 51 9) !important
 }
 
 .bg-light {
